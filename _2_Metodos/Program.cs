@@ -17,7 +17,6 @@ public class MinhaClasse
 
     public void ExibirDataAtual()
     {
-        DateTime.Now.ToShortDateString();
-        //Console.WriteLine($"Data atual: {DateTime.Now.ToShortDateString()}");
+       Console.WriteLine($"Data atual: {DateTime.Now.ToShortDateString()}");
     }
 }
