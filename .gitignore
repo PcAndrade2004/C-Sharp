@@ -1,0 +1,25 @@
+@"
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+
+# Rider
+.idea/
+
+# Backup & logs
+*.log
+*.tmp
+*.bak
+
+# Others
+*.DS_Store
+"@ > .gitignore
