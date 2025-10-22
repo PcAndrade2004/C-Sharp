@@ -14,7 +14,7 @@ p2.Sexo = "Feminino";
 
 Console.WriteLine($"Nome: {p2.Nome}, {p2.Idade}, {p2.Sexo}");
 
-Console.ReadLine();
+Console.ReadKey();
 
 public class Pessoa
 {
