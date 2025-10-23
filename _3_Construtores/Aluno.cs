@@ -14,7 +14,7 @@ namespace _3_Construtores
         public string? Aprovado;
 
         // Construtor com parâmetros
-        public Aluno(string nome, int idade, string materia, string aprovado)
+        public Aluno(string? nome, int idade, string? materia, string? aprovado)
         {
             this.Nome = nome;
             this.Idade = idade;

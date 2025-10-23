@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_2_Metodos", "_2_Metodos\_2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_3_Construtores", "_3_Construtores\_3_Construtores.csproj", "{23241103-CFAF-433D-9F54-CDDAE707B1BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4_SobrecargaMetodo", "_4_SobrecargaMetodo\_4_SobrecargaMetodo.csproj", "{F15D22D7-648E-4FB2-978B-A711D8EE7196}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{23241103-CFAF-433D-9F54-CDDAE707B1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23241103-CFAF-433D-9F54-CDDAE707B1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23241103-CFAF-433D-9F54-CDDAE707B1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F15D22D7-648E-4FB2-978B-A711D8EE7196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F15D22D7-648E-4FB2-978B-A711D8EE7196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F15D22D7-648E-4FB2-978B-A711D8EE7196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F15D22D7-648E-4FB2-978B-A711D8EE7196}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
