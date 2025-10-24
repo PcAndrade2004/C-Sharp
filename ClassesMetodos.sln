@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4_SobrecargaMetodo", "_4_S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_4_ConsolidandoConhecimentoMetodo", "_4_ConsolidandoConhecimentoMetodo\_4_ConsolidandoConhecimentoMetodo.csproj", "{986B7951-44C5-45E5-B8D4-AEEC12FAF59E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5_ArgumentoNomeados", "_5_ArgumentoNomeados\_5_ArgumentoNomeados.csproj", "{CCCC205F-8FA8-4A58-8102-E9DDCF4694D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_6_MetodosEstaticos", "_6_MetodosEstaticos\_6_MetodosEstaticos.csproj", "{A103ED94-3A0A-4027-96F9-34DF8AF7E15A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +48,14 @@ Global
 		{986B7951-44C5-45E5-B8D4-AEEC12FAF59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{986B7951-44C5-45E5-B8D4-AEEC12FAF59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{986B7951-44C5-45E5-B8D4-AEEC12FAF59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCCC205F-8FA8-4A58-8102-E9DDCF4694D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCC205F-8FA8-4A58-8102-E9DDCF4694D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCC205F-8FA8-4A58-8102-E9DDCF4694D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCC205F-8FA8-4A58-8102-E9DDCF4694D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A103ED94-3A0A-4027-96F9-34DF8AF7E15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A103ED94-3A0A-4027-96F9-34DF8AF7E15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A103ED94-3A0A-4027-96F9-34DF8AF7E15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A103ED94-3A0A-4027-96F9-34DF8AF7E15A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
