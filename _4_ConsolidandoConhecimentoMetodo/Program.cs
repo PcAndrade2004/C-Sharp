@@ -4,6 +4,7 @@ Cadastro cadastro = new Cadastro();
 var cliente = cadastro.Registrar(); 
 cadastro.Exibir(cliente);
 
+// alterando Renda
 cliente = cadastro.Registrar(cliente);
 cadastro.Exibir(cliente);
 
