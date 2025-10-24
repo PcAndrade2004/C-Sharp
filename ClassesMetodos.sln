@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_5_ArgumentoNomeados", "_5_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_6_MetodosEstaticos", "_6_MetodosEstaticos\_6_MetodosEstaticos.csproj", "{A103ED94-3A0A-4027-96F9-34DF8AF7E15A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_MembrosEstaticos", "_7_MembrosEstaticos\_7_MembrosEstaticos.csproj", "{5A26E916-A29C-4E1B-8D04-178B0680F99A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_7_MembrosEstaticosExercicio", "_7_MembrosEstaticosExercicio\_7_MembrosEstaticosExercicio.csproj", "{DD0300A4-EB54-4E68-AFAA-611294B628A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +60,14 @@ Global
 		{A103ED94-3A0A-4027-96F9-34DF8AF7E15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A103ED94-3A0A-4027-96F9-34DF8AF7E15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A103ED94-3A0A-4027-96F9-34DF8AF7E15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A26E916-A29C-4E1B-8D04-178B0680F99A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A26E916-A29C-4E1B-8D04-178B0680F99A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A26E916-A29C-4E1B-8D04-178B0680F99A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A26E916-A29C-4E1B-8D04-178B0680F99A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD0300A4-EB54-4E68-AFAA-611294B628A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0300A4-EB54-4E68-AFAA-611294B628A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0300A4-EB54-4E68-AFAA-611294B628A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0300A4-EB54-4E68-AFAA-611294B628A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
