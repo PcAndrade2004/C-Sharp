@@ -3,7 +3,6 @@
 Console.WriteLine("## Membros Estáticos ##\n");
 
 ValorIPVA.ObterValorIPVA();
-Console.WriteLine();
 
 Console.WriteLine($"O valor do IPVA atualizado é: R$ {ValorIPVA.Valoripva}");   
 Console.ReadKey();  
