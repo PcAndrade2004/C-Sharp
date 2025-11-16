@@ -1,6 +1,16 @@
 <Solution>
-  <Folder Name="/Itens de Solução/">
+  <Folder Name="/gitignore/">
     <File Path=".gitignore" />
   </Folder>
+  <Project Path="_10_Struct/10_Struct.csproj" Id="94475d09-dbeb-4426-b8f3-0cd42c0841ea" />
+  <Project Path="_11_Enumeration/11_Enumeration.csproj" Id="08f26492-3c3f-41db-a8b2-4c1b6059cda8" />
   <Project Path="_1_ClassesMetodos/_1_ClassesMetodos.csproj" />
+  <Project Path="_2_Metodos/_2_Metodos.csproj" Id="6026d9bd-b858-493d-b730-84bcdd995279" />
+  <Project Path="_3_Construtores/_3_Construtores.csproj" Id="40aae366-4306-497e-ae2b-264418b2df9d" />
+  <Project Path="_4_SobreCargaMetodo/_4_SobreCargaMetodo.csproj" Id="b4230b67-647d-4007-b19d-d6e552bef4a2" />
+  <Project Path="_5_ArgumentosNomeados/_5_ArgumentosNomeados.csproj" Id="dee3fc33-3f2a-43ed-aeb2-1fbc692915c1" />
+  <Project Path="_6_MetodosEstaticos/_6_MetodosEstaticos.csproj" Id="0ee0d637-0a33-4460-9df5-e3eceabd1482" />
+  <Project Path="_7_MembrosEstaticos/_7_MembrosEstaticos.csproj" Id="30608035-93c1-456c-b477-0ca43a711823" />
+  <Project Path="_8_ConstrutoresEstaticos/_8_ConstrutoresEstaticos.csproj" Id="589cf19b-43f4-4e8e-9988-606586ace4b7" />
+  <Project Path="_9_Encapsulamento/_9_Encapsulamento.csproj" Id="8b9012de-1aa1-4a73-861f-92838ce9abf9" />
 </Solution>
