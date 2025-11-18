@@ -1,0 +1,15 @@
+D:\C-Sharp\Array-ArrayList-List\_8_List\bin\Debug\net8.0\_8_List.exe
+D:\C-Sharp\Array-ArrayList-List\_8_List\bin\Debug\net8.0\_8_List.deps.json
+D:\C-Sharp\Array-ArrayList-List\_8_List\bin\Debug\net8.0\_8_List.runtimeconfig.json
+D:\C-Sharp\Array-ArrayList-List\_8_List\bin\Debug\net8.0\_8_List.dll
+D:\C-Sharp\Array-ArrayList-List\_8_List\bin\Debug\net8.0\_8_List.pdb
+D:\C-Sharp\Array-ArrayList-List\_8_List\obj\Debug\net8.0\_8_List.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Array-ArrayList-List\_8_List\obj\Debug\net8.0\_8_List.AssemblyInfoInputs.cache
+D:\C-Sharp\Array-ArrayList-List\_8_List\obj\Debug\net8.0\_8_List.AssemblyInfo.cs
+D:\C-Sharp\Array-ArrayList-List\_8_List\obj\Debug\net8.0\_8_List.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Array-ArrayList-List\_8_List\obj\Debug\net8.0\_8_List.sourcelink.json
+D:\C-Sharp\Array-ArrayList-List\_8_List\obj\Debug\net8.0\_8_List.dll
+D:\C-Sharp\Array-ArrayList-List\_8_List\obj\Debug\net8.0\refint\_8_List.dll
+D:\C-Sharp\Array-ArrayList-List\_8_List\obj\Debug\net8.0\_8_List.pdb
+D:\C-Sharp\Array-ArrayList-List\_8_List\obj\Debug\net8.0\_8_List.genruntimeconfig.cache
+D:\C-Sharp\Array-ArrayList-List\_8_List\obj\Debug\net8.0\ref\_8_List.dll
