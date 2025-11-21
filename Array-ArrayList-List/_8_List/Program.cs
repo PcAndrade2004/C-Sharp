@@ -28,13 +28,13 @@ string y = listas[0] = "Diomeneis";
 Console.WriteLine(y);
 #endregion
 
-#region
+#region Retornando quantidade de elementos
 Console.WriteLine("\n--- Retornando a quantidade elementos ---");
 int quantdade = listas.Count;
 Console.WriteLine(quantdade);
 #endregion
 
-#region
+#region Removendo Elementos
 Console.WriteLine("\n--- Removendo elemento ---");
 listas.Remove("Paulo");
 

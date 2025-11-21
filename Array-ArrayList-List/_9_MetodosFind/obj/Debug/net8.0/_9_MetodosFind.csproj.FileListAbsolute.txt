@@ -1,0 +1,15 @@
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\bin\Debug\net8.0\_9_MetodosFind.exe
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\bin\Debug\net8.0\_9_MetodosFind.deps.json
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\bin\Debug\net8.0\_9_MetodosFind.runtimeconfig.json
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\bin\Debug\net8.0\_9_MetodosFind.dll
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\bin\Debug\net8.0\_9_MetodosFind.pdb
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\obj\Debug\net8.0\_9_MetodosFind.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\obj\Debug\net8.0\_9_MetodosFind.AssemblyInfoInputs.cache
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\obj\Debug\net8.0\_9_MetodosFind.AssemblyInfo.cs
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\obj\Debug\net8.0\_9_MetodosFind.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\obj\Debug\net8.0\_9_MetodosFind.sourcelink.json
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\obj\Debug\net8.0\_9_MetodosFind.dll
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\obj\Debug\net8.0\refint\_9_MetodosFind.dll
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\obj\Debug\net8.0\_9_MetodosFind.pdb
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\obj\Debug\net8.0\_9_MetodosFind.genruntimeconfig.cache
+D:\C-Sharp\Array-ArrayList-List\_9_MetodosFind\obj\Debug\net8.0\ref\_9_MetodosFind.dll
