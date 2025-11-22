@@ -1,0 +1,15 @@
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\bin\Debug\net8.0\_9_ExercicioList.exe
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\bin\Debug\net8.0\_9_ExercicioList.deps.json
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\bin\Debug\net8.0\_9_ExercicioList.runtimeconfig.json
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\bin\Debug\net8.0\_9_ExercicioList.dll
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\bin\Debug\net8.0\_9_ExercicioList.pdb
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\obj\Debug\net8.0\_9_ExercicioList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\obj\Debug\net8.0\_9_ExercicioList.AssemblyInfoInputs.cache
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\obj\Debug\net8.0\_9_ExercicioList.AssemblyInfo.cs
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\obj\Debug\net8.0\_9_ExercicioList.csproj.CoreCompileInputs.cache
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\obj\Debug\net8.0\_9_ExercicioList.sourcelink.json
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\obj\Debug\net8.0\_9_ExercicioList.dll
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\obj\Debug\net8.0\refint\_9_ExercicioList.dll
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\obj\Debug\net8.0\_9_ExercicioList.pdb
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\obj\Debug\net8.0\_9_ExercicioList.genruntimeconfig.cache
+D:\C-Sharp\Array-ArrayList-List\_9_ExercicioList\obj\Debug\net8.0\ref\_9_ExercicioList.dll
