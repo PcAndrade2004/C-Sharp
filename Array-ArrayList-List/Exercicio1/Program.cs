@@ -1,6 +1,5 @@
-﻿Console.WriteLine("## Criar e adicionar elemento ##\n");
+﻿Console.WriteLine("## Exercicio 1 ##");
 
-List<string> nomes = new List<string>();
 
 
 nomes.Add("Paulo Cesar");

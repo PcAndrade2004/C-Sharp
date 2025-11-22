@@ -1,0 +1,15 @@
+D:\C-Sharp\POO\_1_Heranca\bin\Debug\net8.0\_1_Heranca.exe
+D:\C-Sharp\POO\_1_Heranca\bin\Debug\net8.0\_1_Heranca.deps.json
+D:\C-Sharp\POO\_1_Heranca\bin\Debug\net8.0\_1_Heranca.runtimeconfig.json
+D:\C-Sharp\POO\_1_Heranca\bin\Debug\net8.0\_1_Heranca.dll
+D:\C-Sharp\POO\_1_Heranca\bin\Debug\net8.0\_1_Heranca.pdb
+D:\C-Sharp\POO\_1_Heranca\obj\Debug\net8.0\_1_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-Sharp\POO\_1_Heranca\obj\Debug\net8.0\_1_Heranca.AssemblyInfoInputs.cache
+D:\C-Sharp\POO\_1_Heranca\obj\Debug\net8.0\_1_Heranca.AssemblyInfo.cs
+D:\C-Sharp\POO\_1_Heranca\obj\Debug\net8.0\_1_Heranca.csproj.CoreCompileInputs.cache
+D:\C-Sharp\POO\_1_Heranca\obj\Debug\net8.0\_1_Heranca.sourcelink.json
+D:\C-Sharp\POO\_1_Heranca\obj\Debug\net8.0\_1_Heranca.dll
+D:\C-Sharp\POO\_1_Heranca\obj\Debug\net8.0\refint\_1_Heranca.dll
+D:\C-Sharp\POO\_1_Heranca\obj\Debug\net8.0\_1_Heranca.pdb
+D:\C-Sharp\POO\_1_Heranca\obj\Debug\net8.0\_1_Heranca.genruntimeconfig.cache
+D:\C-Sharp\POO\_1_Heranca\obj\Debug\net8.0\ref\_1_Heranca.dll
