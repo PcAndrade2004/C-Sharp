@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\bin\Debug\net8.0\Exemple10ConversaoImplicita.exe
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\bin\Debug\net8.0\Exemple10ConversaoImplicita.deps.json
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\bin\Debug\net8.0\Exemple10ConversaoImplicita.runtimeconfig.json
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\bin\Debug\net8.0\Exemple10ConversaoImplicita.dll
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\bin\Debug\net8.0\Exemple10ConversaoImplicita.pdb
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\obj\Debug\net8.0\Exemple10ConversaoImplicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\obj\Debug\net8.0\Exemple10ConversaoImplicita.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\obj\Debug\net8.0\Exemple10ConversaoImplicita.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\obj\Debug\net8.0\Exemple10ConversaoImplicita.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\obj\Debug\net8.0\Exemple10ConversaoImplicita.sourcelink.json
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\obj\Debug\net8.0\Exemple10ConversaoImplicita.dll
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\obj\Debug\net8.0\refint\Exemple10ConversaoImplicita.dll
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\obj\Debug\net8.0\Exemple10ConversaoImplicita.pdb
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\obj\Debug\net8.0\Exemple10ConversaoImplicita.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple10ConversaoImplicita\obj\Debug\net8.0\ref\Exemple10ConversaoImplicita.dll
