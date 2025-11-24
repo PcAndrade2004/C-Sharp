@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\bin\Debug\net8.0\Exemple11ConversaoExplicita.exe
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\bin\Debug\net8.0\Exemple11ConversaoExplicita.deps.json
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\bin\Debug\net8.0\Exemple11ConversaoExplicita.runtimeconfig.json
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\bin\Debug\net8.0\Exemple11ConversaoExplicita.dll
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\bin\Debug\net8.0\Exemple11ConversaoExplicita.pdb
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\obj\Debug\net8.0\Exemple11ConversaoExplicita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\obj\Debug\net8.0\Exemple11ConversaoExplicita.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\obj\Debug\net8.0\Exemple11ConversaoExplicita.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\obj\Debug\net8.0\Exemple11ConversaoExplicita.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\obj\Debug\net8.0\Exemple11ConversaoExplicita.sourcelink.json
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\obj\Debug\net8.0\Exemple11ConversaoExplicita.dll
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\obj\Debug\net8.0\refint\Exemple11ConversaoExplicita.dll
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\obj\Debug\net8.0\Exemple11ConversaoExplicita.pdb
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\obj\Debug\net8.0\Exemple11ConversaoExplicita.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple11ConversaoExplicita\obj\Debug\net8.0\ref\Exemple11ConversaoExplicita.dll
