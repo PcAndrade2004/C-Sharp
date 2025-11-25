@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exemple10ConversaoImplicita")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+972a57f8aede11db84e4c7636cce2951a5d2a032")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ce12bf2306e3ed550c5d1d54ea33f302a8515c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exemple10ConversaoImplicita")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exemple10ConversaoImplicita")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
