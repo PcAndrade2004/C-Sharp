@@ -1,0 +1,24 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Assemblies
+*.dll
+*.exe
+*.appx
+*.appxbundle
+*.msi
+*.pdb
+
+# Backup
+*_backup.json
+
+# Logs
+*.log

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exemple12IntParse")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ce12bf2306e3ed550c5d1d54ea33f302a8515c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10f64c6ef794c16c5473a7ba78abae0ecff8a09f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exemple12IntParse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exemple12IntParse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

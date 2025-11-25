@@ -3,4 +3,7 @@
     <File Path="gitignore" />
   </Folder>
   <Project Path="Example9NullableTypes/Example9NullableTypes.csproj" />
+  <Project Path="Exemple10ConversaoImplicita/Exemple10ConversaoImplicita.csproj" Id="51464ae0-ab20-4601-87d4-4e9e9b8b2cf5" />
+  <Project Path="Exemple11ConversaoExplicita/Exemple11ConversaoExplicita.csproj" Id="132b2e17-5e2a-4489-82e3-7e2f47aadb7e" />
+  <Project Path="Exemple12IntParse/Exemple12IntParse.csproj" Id="cdbfa765-63a6-4f23-ad67-b8c13e13fc0e" />
 </Solution>

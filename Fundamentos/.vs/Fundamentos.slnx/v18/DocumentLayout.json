@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Paulo\\Documents\\Dev\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80E78390-4288-4619-B348-8E1F32631629}|Solution Items{80E78390-4288-4619-B348-8E1F32631629}|C:\\Users\\Paulo\\Documents\\Dev\\Fundamentos\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{80E78390-4288-4619-B348-8E1F32631629}|Solution Items{80E78390-4288-4619-B348-8E1F32631629}|solutionrelative:gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{CDBFA765-63A6-4F23-AD67-B8C13E13FC0E}|Exemple12IntParse\\Exemple12IntParse.csproj|c:\\users\\paulo\\documents\\dev\\fundamentos\\exemple12intparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBFA765-63A6-4F23-AD67-B8C13E13FC0E}|Exemple12IntParse\\Exemple12IntParse.csproj|solutionrelative:exemple12intparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB278281-3794-4387-B951-B4445C006289}|Example9NullableTypes\\Example9NullableTypes.csproj|c:\\users\\paulo\\documents\\dev\\fundamentos\\example9nullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB278281-3794-4387-B951-B4445C006289}|Example9NullableTypes\\Example9NullableTypes.csproj|solutionrelative:example9nullabletypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{132B2E17-5E2A-4489-82E3-7E2F47AADB7E}|Exemple11ConversaoExplicita\\Exemple11ConversaoExplicita.csproj|c:\\users\\paulo\\documents\\dev\\fundamentos\\exemple11conversaoexplicita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{132B2E17-5E2A-4489-82E3-7E2F47AADB7E}|Exemple11ConversaoExplicita\\Exemple11ConversaoExplicita.csproj|solutionrelative:exemple11conversaoexplicita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,28 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "gitignore",
-              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Dev\\Fundamentos\\gitignore",
-              "RelativeDocumentMoniker": "gitignore",
-              "ToolTip": "C:\\Users\\Paulo\\Documents\\Dev\\Fundamentos\\gitignore",
-              "RelativeToolTip": "gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-11-24T03:03:02.389Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Dev\\Fundamentos\\Exemple12IntParse\\Program.cs",
+              "RelativeDocumentMoniker": "Exemple12IntParse\\Program.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Dev\\Fundamentos\\Exemple12IntParse\\Program.cs",
+              "RelativeToolTip": "Exemple12IntParse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T11:22:42.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Dev\\Fundamentos\\Example9NullableTypes\\Program.cs",
-              "RelativeDocumentMoniker": "Example9NullableTypes\\Program.cs",
-              "ToolTip": "C:\\Users\\Paulo\\Documents\\Dev\\Fundamentos\\Example9NullableTypes\\Program.cs",
-              "RelativeToolTip": "Example9NullableTypes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Paulo\\Documents\\Dev\\Fundamentos\\Exemple11ConversaoExplicita\\Program.cs",
+              "RelativeDocumentMoniker": "Exemple11ConversaoExplicita\\Program.cs",
+              "ToolTip": "C:\\Users\\Paulo\\Documents\\Dev\\Fundamentos\\Exemple11ConversaoExplicita\\Program.cs",
+              "RelativeToolTip": "Exemple11ConversaoExplicita\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T02:49:51.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T11:09:45.393Z"
             }
           ]
         }
