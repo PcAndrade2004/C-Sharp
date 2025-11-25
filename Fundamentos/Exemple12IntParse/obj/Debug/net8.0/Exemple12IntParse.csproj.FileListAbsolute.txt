@@ -1,0 +1,15 @@
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\bin\Debug\net8.0\Exemple12IntParse.exe
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\bin\Debug\net8.0\Exemple12IntParse.deps.json
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\bin\Debug\net8.0\Exemple12IntParse.runtimeconfig.json
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\bin\Debug\net8.0\Exemple12IntParse.dll
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\bin\Debug\net8.0\Exemple12IntParse.pdb
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\obj\Debug\net8.0\Exemple12IntParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\obj\Debug\net8.0\Exemple12IntParse.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\obj\Debug\net8.0\Exemple12IntParse.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\obj\Debug\net8.0\Exemple12IntParse.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\obj\Debug\net8.0\Exemple12IntParse.sourcelink.json
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\obj\Debug\net8.0\Exemple12IntParse.dll
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\obj\Debug\net8.0\refint\Exemple12IntParse.dll
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\obj\Debug\net8.0\Exemple12IntParse.pdb
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\obj\Debug\net8.0\Exemple12IntParse.genruntimeconfig.cache
+C:\Users\Paulo\Documents\Dev\Fundamentos\Exemple12IntParse\obj\Debug\net8.0\ref\Exemple12IntParse.dll
